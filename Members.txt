@@ -1,11 +1,19 @@
-List of Members For Team 042
-
+List of members Team 042
 
 Then Wee Wei
+intro: Chemical Engineering student year 2 sem 2
+role : team leader
+branch : chemical 
 
 Tan Li Jie
+My strength is I will be alert in some critical situation. My weakness is I could believe easily anyone.
+Role in project: programmer
+Preferred branch of engineering: chemical
 
 Ng Wan Jing
+Brief Introduction    
+Role in Project: Member 
+Preferred Branch of Engineering: Chemical 
 
 Aisha Abdallah Mnjovu
 Monash International Student
